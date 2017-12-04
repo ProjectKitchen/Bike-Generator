@@ -1,0 +1,55 @@
+Partlist 
+
+Exported from final.sch at 13.02.2017 14:43
+
+Part         ;  Value             ;Device                ;Package            ;Library            ;Sheet;
+AMMETER1     ;  ACS712ELCTR-20A-T ;ACS712ELCTR-20A-T     ;SOIC127P600X175-8N ;ACS712-20A_Farnell ;1;
+AMMETER2     ;  ACS712ELCTR-20A-T ;ACS712ELCTR-20A-T     ;SOIC127P600X175-8N ;ACS712-20A_Farnell ;1;
+AMMETER3     ;  ACS712ELCTR-20A-T ;ACS712ELCTR-20A-T     ;SOIC127P600X175-8N ;ACS712-20A_Farnell ;1;
+BIKE_INPUT   ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;1;
+C1           ;  22pF              ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C2           ;  22pF              ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C3           ;                    ;CPOL-EUE3.5-8         ;E3,5-8             ;rcl                ;1;
+C4           ;  22uF              ;CPOL-EUE1.8-4         ;E1,8-4             ;rcl                ;1;
+C5           ;  22uF              ;CPOL-EUE1.8-4         ;E1,8-4             ;rcl                ;1;
+C6           ;  1nF               ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C7           ;  100nF             ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C8           ;  100nF             ;C-EU025-025X050       ;C025-025X050       ;rcl                ;1;
+C9           ;  1nF               ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C10          ;  1nF               ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C11          ;  100nF             ;C-EU025-024X044       ;C025-024X044       ;rcl                ;1;
+C12          ;                    ;CPOL-EUE3.5-8         ;E3,5-8             ;rcl                ;1;
+C14          ;                    ;CPOL-EUE3.5-8         ;E3,5-8             ;rcl                ;1;
+D1           ;                    ;STPS1045              ;TO220AC            ;stps1045_own       ;1;
+D2           ;                    ;STPS1045              ;TO220AC            ;stps1045_own       ;1;
+D3           ;   GPA1603          ;DIODE-C221B1A         ;C221B1A            ;diode              ;1;
+EXTERNAL_CAP ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;1;
+IC1          ;  MEGA8-P           ;MEGA8-P               ;DIL28-3            ;atmel              ;1;
+IC2          ;  LD117AV33         ;LD117AV33             ;TO220L1            ;v-reg              ;1;
+IC3          ;  LD117AV50         ;LD117AV50             ;TO220L1            ;v-reg              ;1;
+L1           ;                    ;L-EUTJ4-U2            ;TJ4-U2             ;rcl                ;1;
+L2           ;                    ;L-EUTJ4-U2            ;TJ4-U2             ;rcl                ;1;
+Q2           ;  16Mhz             ;CRYSTALHC49U70        ;HC49U70            ;crystal            ;1;
+R1           ;  10k Ohm           ;R-EU_0204/7           ;0204/7             ;rcl                ;1;
+R2           ;                    ;R-EU_0207/10          ;0207/10            ;resistor           ;1;
+R3           ;                    ;R-EU_0207/10          ;0207/10            ;resistor           ;1;
+R4           ;  1k R              ;R-EU_0207/10          ;0207/10            ;resistor           ;1;
+R5           ;  330R              ;R-EU_0207/10          ;0207/10            ;resistor           ;1;
+R6           ;  1k R              ;R-EU_0207/10          ;0207/10            ;resistor           ;1;
+R7           ;  330R              ;R-EU_0207/10          ;0207/10            ;resistor           ;1;
+R9           ;  10k Ohm           ;R-EU_0204/7           ;0204/7             ;rcl                ;1;
+T1           ;  SUP65P06-20       ;SUP65P06-20           ;TO220              ;transistor-fet     ;1;
+T2           ;  SUP65P06-20       ;SUP65P06-20           ;TO220              ;transistor-fet     ;1;
+T3           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;1;
+T4           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;1;
+T5           ;  BC327-40          ;BC327-40              ;TO92-EBC           ;transistor-pnp     ;1;
+T6           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;1;
+T7           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;1;
+T8           ;  BC327-40          ;BC327-40              ;TO92-EBC           ;transistor-pnp     ;1;
+TO_BATTERY   ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;1;
+TO_RECTIFIER ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;1;
+U$1          ;  JS202011CQN-DPDT  ;JS202011CQN-DPDT      ;2X3_SWITCH         ;Library_TW         ;1;
+U$2          ;  SPC21205-4PDT     ;SPC21205-4PDT         ;2X6_SWITCH         ;Library_TW         ;1;
+U1           ;  ESP01             ;ESP01                 ;ESP01              ;esp8266modules     ;1;
+U2           ;  ESP-07 or 12      ;ESP12ESMD             ;ESP12E-SMD         ;esp8266modules     ;1;
+USB-PROGRAMMER;                   ;PINHD-1X5             ;1X05               ;pinhead            ;1;

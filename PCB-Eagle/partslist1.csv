@@ -1,0 +1,51 @@
+Part         ;  Value             ;Device                ;Package            ;Library            ;Price(1+);Price(10+);link
+AMMETER1     ;  ACS712ELCTR-20A-T ;ACS712ELCTR-20A-T     ;SOIC127P600X175-8N ;ACS712-20A_Farnell ;;;
+AMMETER2     ;  ACS712ELCTR-20A-T ;ACS712ELCTR-20A-T     ;SOIC127P600X175-8N ;ACS712-20A_Farnell ;;;
+AMMETER3     ;  ACS712ELCTR-20A-T ;ACS712ELCTR-20A-T     ;SOIC127P600X175-8N ;ACS712-20A_Farnell ;;;
+BIKE_INPUT   ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;;;
+C1           ;  22pF              ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;0,0049;http://at.farnell.com/multicomp/mc0402n220j500ct/kondensator-mlcc-c0g-np0-22pf/dp/1758951
+C2           ;  22pF              ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;0,0049;http://at.farnell.com/multicomp/mc0402n220j500ct/kondensator-mlcc-c0g-np0-22pf/dp/1758951
+C3           ;                    ;CPOL-EUE3.5-8         ;E3,5-8             ;rcl                ;;;
+C4           ;  22uF              ;CPOL-EUE1.8-4         ;E1,8-4             ;rcl                ;;;
+C5           ;  22uF              ;CPOL-EUE1.8-4         ;E1,8-4             ;rcl                ;;;
+C6           ;  1nF               ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;;
+C7           ;  100nF             ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;;
+C8           ;  100nF             ;C-EU025-025X050       ;C025-025X050       ;rcl                ;;;
+C9           ;  1nF               ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;;
+C10          ;  1nF               ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;;
+C11          ;  100nF             ;C-EU025-024X044       ;C025-024X044       ;rcl                ;;;
+C12          ;                    ;CPOL-EUE3.5-8         ;E3,5-8             ;rcl                ;;;
+C14          ;                    ;CPOL-EUE3.5-8         ;E3,5-8             ;rcl                ;;;
+D1           ;                    ;STPS1045              ;TO220AC            ;stps1045_own       ;;;
+D2           ;                    ;STPS1045              ;TO220AC            ;stps1045_own       ;;;
+D3           ;   GPA1603          ;DIODE-C221B1A         ;C221B1A            ;diode              ;;;
+EXTERNAL_CAP ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;;;
+IC1          ;  MEGA8-P           ;MEGA8-P               ;DIL28-3            ;atmel              ;2,79;;http://at.farnell.com/atmel/atmega328p-au/mcu-8bit-avr-32k-flash-32tqfp/dp/1715486
+IC2          ;  LD117AV33         ;LD117AV33             ;TO220L1            ;v-reg              ;;;
+IC3          ;  LD117AV50         ;LD117AV50             ;TO220L1            ;v-reg              ;;;
+L1           ;                    ;L-EUTJ4-U2            ;TJ4-U2             ;rcl                ;;;
+L2           ;                    ;L-EUTJ4-U2            ;TJ4-U2             ;rcl                ;;;
+Q2           ;  16Mhz             ;CRYSTALHC49U70        ;HC49U70            ;crystal            ;;;
+R1           ;  10k Ohm           ;R-EU_0204/7           ;0204/7             ;rcl                ;;;
+R2           ;                    ;R-EU_0207/10          ;0207/10            ;resistor           ;;;
+R3           ;                    ;R-EU_0207/10          ;0207/10            ;resistor           ;;;
+R4           ;  1k R              ;R-EU_0207/10          ;0207/10            ;resistor           ;;;
+R5           ;  330R              ;R-EU_0207/10          ;0207/10            ;resistor           ;;;
+R6           ;  1k R              ;R-EU_0207/10          ;0207/10            ;resistor           ;;;
+R7           ;  330R              ;R-EU_0207/10          ;0207/10            ;resistor           ;;;
+R9           ;  10k Ohm           ;R-EU_0204/7           ;0204/7             ;rcl                ;;;
+T1           ;  SUP65P06-20       ;SUP65P06-20           ;TO220              ;transistor-fet     ;;;
+T2           ;  SUP65P06-20       ;SUP65P06-20           ;TO220              ;transistor-fet     ;;;
+T3           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;;;
+T4           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;;;
+T5           ;  BC327-40          ;BC327-40              ;TO92-EBC           ;transistor-pnp     ;;;
+T6           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;;;
+T7           ;  BC337-25          ;BC337-25-NPN-TO92-CBE ;TO92-CBE           ;transistor         ;;;
+T8           ;  BC327-40          ;BC327-40              ;TO92-EBC           ;transistor-pnp     ;;;
+TO_BATTERY   ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;;;
+TO_RECTIFIER ;                    ;PINHD-1X2             ;1X02               ;pinhead            ;;;
+U$1          ;  JS202011CQN-DPDT  ;JS202011CQN-DPDT      ;2X3_SWITCH         ;Library_TW         ;;;
+U$2          ;  SPC21205-4PDT     ;SPC21205-4PDT         ;2X6_SWITCH         ;Library_TW         ;;;
+U1           ;  ESP01             ;ESP01                 ;ESP01              ;esp8266modules     ;;;
+U2           ;  ESP-07 or 12      ;ESP12ESMD             ;ESP12E-SMD         ;esp8266modules     ;;;
+USB-PROGRAMMER;                   ;PINHD-1X5             ;1X05               ;pinhead            ;;;
